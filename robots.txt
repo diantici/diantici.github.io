@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://diantici.github.io/sitemap.html.gz
+Sitemap: https://diantici.github.io/app/sitemap.html.gz
+Sitemap: https://diantici.github.io/assets/sitemap.html.gz
+Sitemap: https://diantici.github.io/css/sitemap.html.gz
+Sitemap: https://diantici.github.io/includes/sitemap.html.gz
+Sitemap: https://diantici.github.io/item/sitemap.html.gz
+Sitemap: https://diantici.github.io/src/sitemap.html.gz
